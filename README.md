@@ -1,2 +1,3 @@
 # react-redux
-React Practise
+Just Another Practis with react
+
